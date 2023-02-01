@@ -1,0 +1,31 @@
+font.family: IBM Plex Sans
+font.weight: 300
+mathtext.default: regular
+figure.figsize: 4, 3
+figure.dpi: 300
+figure.titleweight: 300
+axes.linewidth: 1
+axes.titleweight: 300
+axes.labelweight: 300
+axes.grid: False
+axes.prop_cycle: cycler('color', [(0., 0.45, 0.7), (0.9, 0.6, 0.), (0.8, 0.4, 0.), (0.8, 0.6, 0.7), (0.35, 0.7, 0.9), (0., 0.6, 0.5), (0.95, 0.9, 0.25)])
+xtick.top: False
+xtick.bottom: True
+xtick.direction: in
+xtick.major.size: 6
+xtick.major.pad: 8
+xtick.major.width: 1
+ytick.left: True
+ytick.right: False
+ytick.direction: in
+ytick.major.size: 6
+ytick.major.pad: 8
+ytick.major.width: 1
+grid.color: lightgray
+grid.linewidth: 0.8
+legend.frameon: True
+legend.facecolor: (1.0, 1.0, 1.0, 0.8)
+legend.edgecolor: none
+legend.handlelength: 1.25
+legend.fontsize: 8
+hatch.color: (0.8, 0.6, 0.7, 0.33)
